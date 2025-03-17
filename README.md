@@ -1,2 +1,2 @@
-# Quantitative_problem_solving_using-_OCaml
+# Quantitative_problem_solving_using_OCaml
 Relevant to Quantitatve Trading roles
